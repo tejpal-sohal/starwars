@@ -1,0 +1,41 @@
+
+
+.bg {
+    background-image: url("https://on-desktop.com/wps/Backgrounds_Robot_from_Star_Wars__light_background_100906_.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.fix {
+    margin-top: -25px;
+    margin-bottom: 100px;
+}
+
+#pagination-container {
+    text-align: center;
+}
+
+.paginationjs .paginationjs-pages {
+    float: none;
+    display: inline-block;
+}
+
+.paginationjs .paginationjs-pages li.active>a {
+    height: 30px;
+    line-height: 30px;
+    background: #343a40;
+    color: #fff;
+}
+
+
+footer {
+    min-height: 200px;
+    background-image: url(https://static-mh.content.disney.io/starwars/assets/footer/vader-1c0fe900f0e4.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: auto 0;
+    letter-spacing: 1.05px;
+    background-color: #1a1a1a;
+}
