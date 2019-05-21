@@ -29,5 +29,5 @@ This will start the server.
 
 # May the Force be with you
 
-![alt text](https://github.com/tejpal-sohal/starwars/blob/master/Star-Wars-transparent-logo-480x480.jpg.png "STAR wars")
+![alt text](https://github.com/tejpal-sohal/starwars/blob/master/Star-Wars-transparent-logo-480x480.png "STAR wars")
 
